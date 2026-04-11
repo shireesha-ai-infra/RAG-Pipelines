@@ -1,3 +1,6 @@
 venv
 .env
 .DS_Store
+*.bin
+*.sqlite3
+vector_store
